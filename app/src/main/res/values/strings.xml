@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FB Timeline History</string>
+    <string name="facebook_app_id">1051809794906921</string>
+    <string name="fb_login_btn_name">Login with Facebook</string>
+</resources>
